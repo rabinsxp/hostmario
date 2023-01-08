@@ -8,20 +8,22 @@ HostMario is a web hosting automation software designed to help hosting companie
 <table>
  <tr>
   <td width="100%" align="center">
-   <img src="images/hostmario_login.png">
+  Login.
   </td>
   <td>
-   Login.<br><br>
+     <img width="40%"  align="center" src="images/hostmario_login.png">
+<br><br>
    "The HostMario login page is the gateway to accessing all the powerful features and tools of the web hosting automation software. To log in, users simply need to enter their username and password into the designated fields and click the "Log In" button. If you have forgotten your password, there is a link provided to reset it. The login page is secure, with SSL encryption protecting your personal information and ensuring that your login credentials are transmitted securely. Once logged in, users will be taken to their dashboard where they can access all the features and tools of HostMario."
 
   </td>
  </tr>
  <tr>
   <td width="100%" align="center">
-   <img src="images/hostmario-clientarrea.png">
+   Clientarea
+  
   </td>
   <td>
-     Clientarea<br><br>
+    <img  width="40%"  align="center" src="images/hostmario-clientarrea.png"> <br><br>
 
 - The client area in HostMario is a secure portal that allows clients to access their hosting account and manage their services. The client area typically includes the following features:
 
@@ -41,10 +43,11 @@ The client area is an essential part of HostMario, as it provides a central loca
  </tr>
  <tr>
   <td width="100%" align="center">
-   <img src="images/hostmario_clientarea_domains_.png>
+  Clientarea Domains
   </td>
   <td>
-       Clientarea Domains<br><br>
+          <img width="50%" align="center" src="images/hostmario_clientarea_domains_.png>
+<br/>
 
    The clientarea domains page in HostMario allows clients to manage their domains registered with the hosting company. This page typically includes the following features:
 
@@ -62,10 +65,12 @@ The clientarea domains page is a key part of HostMario, as it allows clients to 
  </tr>
  <tr>
   <td width="100%" align="center">
-   <img src="images/hostmario_clientarea_tickets_.png"/>
+   Clientarea Tickets
   </td>
   <td>
-    Clientarea Tickets<br><br>
+     <img  width="40%"  align="center" src="images/hostmario_clientarea_tickets_.png"/>
+
+   <br><br>
    The clientarea tickets page in HostMario is a support feature that allows clients to submit and track support tickets with the hosting company. This page typically includes the following features:
 
 - Ticket List: A list of all the support tickets that the client has submitted, including their status and the date they were created.
@@ -87,10 +92,12 @@ The clientarea tickets page is an important part of HostMario, as it provides a 
  </tr>
  <tr>
   <td width="100%" align="center">
-   <img src="images/hostmario_rp_addfunds-1.png"/>
+   Clientarea Invoices
   </td>
   <td>
-    Clientarea Invoices<br><br>
+     <img width="40%" align="center" src="images/hostmario_rp_addfunds-1.png"/>
+
+   <br><br>
 
     The clientarea invoices page in HostMario is a billing feature that allows clients to view and pay their invoices with the hosting company. This page typically includes the following features:
 
@@ -112,11 +119,12 @@ The clientarea invoices page is a crucial part of HostMario, as it allows client
  </tr>
  <tr>
   <td width="100%" align="center">
-     <img src="images/hostmario_clientarea_tickets_3.png"/>
-
+ Clientarea Add Funds
   </td>
   <td>
-      Clientarea Add Funds<br><br>
+       <img width="50%" align="center" src="images/hostmario_clientarea_tickets_3.png"/>
+
+     <br><br>
 
 The clientarea add funds page in HostMario is a billing feature that allows clients to add funds to their account balance with the hosting company. This page typically includes the following features:
 
@@ -132,10 +140,12 @@ The clientarea add funds page is a useful feature of HostMario, as it allows cli
  </tr>
  <tr>
   <td width="100%" align="center">
-   <img src="images/hostmario_clientarea_services_11.png"/>
+  Clientarea Services
   </td>
   <td>
-  Clientarea Services<br><br>
+     <img width="50%" align="center" src="images/hostmario_clientarea_services_11.png"/>
+
+  <br><br>
    The clientarea services page in HostMario is a feature that allows clients to manage their hosting services with the hosting company. This page typically includes the following features:
 
 - Service List: A list of all the hosting services that the client has with the company, including their type, status, and expiration date.
@@ -153,10 +163,11 @@ The clientarea services page is an important part of HostMario, as it allows cli
  </tr>
  <tr>
   <td width="100%" align="center">
-   <img src="images/hostmario_admin_blogs_edit_44.png"/>
+   Admin Blogs
   </td>
   <td>
-     Admin Blogs<br><br>
+      <img  width="50%" align="center" src="images/hostmario_admin_blogs_edit_44.png"/>
+ <br><br>
 
    The admin blogs page in HostMario is a feature that allows the hosting company's administrator to manage and publish blog posts on the company's website. This page typically includes the following features:
 
@@ -175,10 +186,11 @@ The admin blogs page is a useful feature of HostMario, as it allows the hosting 
  </tr>
  <tr>
   <td width="100%" align="center">
-   <img src="/images/hostmario_login.png"/>
+  Login
   </td>
   <td>
-   Login<br><br>
+      <img  width="50%" align="center" src="/images/hostmario_login.png"/>
+<br><br>
    The login page in HostMario is a feature that allows clients and administrators to access their account with the hosting company. This page typically includes the following features:
 
 Login Form: A form for entering the client's or administrator's username and password to log in to their account.
