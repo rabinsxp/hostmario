@@ -7,7 +7,7 @@ HostMario is a web hosting automation software designed to help hosting companie
 
 <table>
  <tr>
-  <td width="300" align="center">
+  <td width="100%" align="center">
    <img src="images/hostmario_login.png">
   </td>
   <td>
@@ -17,7 +17,7 @@ HostMario is a web hosting automation software designed to help hosting companie
   </td>
  </tr>
  <tr>
-  <td width="300" align="center">
+  <td width="100%" align="center">
    <img src="images/hostmario-clientarrea.png">
   </td>
   <td>
@@ -40,7 +40,7 @@ HostMario is a web hosting automation software designed to help hosting companie
 The client area is an essential part of HostMario, as it provides a central location for clients to manage their hosting services and get support when needed.  </td>
  </tr>
  <tr>
-  <td width="300" align="center">
+  <td width="100%" align="center">
    <img src="images/hostmario_clientarea_domains_.png>
   </td>
   <td>
@@ -61,7 +61,7 @@ The client area is an essential part of HostMario, as it provides a central loca
 The clientarea domains page is a key part of HostMario, as it allows clients to easily manage their domains and keep them up-to-date. It also provides an opportunity for hosting companies to upsell additional domain registration services to their clients.</td>
  </tr>
  <tr>
-  <td width="300" align="center">
+  <td width="100%" align="center">
    <img src="images/hostmario_clientarea_tickets_.png"/>
   </td>
   <td>
@@ -74,7 +74,7 @@ The clientarea domains page is a key part of HostMario, as it allows clients to 
 
 - Ticket Submission: A form for submitting a new support ticket, with options to choose the ticket category, subject, and message.
 
-   <img src="images/hostmario_clientarea_tickets_3.png"/>
+   <img  width="100%"  src="images/hostmario_clientarea_tickets_3.png"/>
 
 
 - Ticket Search: A search bar that allows clients to quickly find a specific ticket in their account.
@@ -85,8 +85,8 @@ The clientarea tickets page is an important part of HostMario, as it provides a 
   </td>
  </tr>
  <tr>
-  <td width="300" align="center">
-   <img src="images/hostmario_rp_addfunds-1.png"/>
+  <td width="100%" align="center">
+   <img  width="100%"  src="images/hostmario_rp_addfunds-1.png"/>
   </td>
   <td>
     Clientarea Invoices<br><br>
@@ -108,7 +108,7 @@ The clientarea invoices page is a crucial part of HostMario, as it allows client
   </td>
  </tr>
  <tr>
-  <td width="300" align="center">
+  <td width="100%" align="center">
      <img src="images/hostmario_clientarea_tickets_3.png"/>
 
   </td>
@@ -128,7 +128,7 @@ Credit Expiration: Information on the expiration date for any credits added to t
 The clientarea add funds page is a useful feature of HostMario, as it allows clients to easily add funds to their account and use them to pay for hosting services. It also helps hosting companies to provide flexible billing options to their clients.  </td>
  </tr>
  <tr>
-  <td width="300" align="center">
+  <td width="100%" align="center">
    <img src="images/hostmario_clientarea_services_11.png"/>
   </td>
   <td>
@@ -149,7 +149,7 @@ The clientarea services page is an important part of HostMario, as it allows cli
  </td>
  </tr>
  <tr>
-  <td width="300" align="center">
+  <td width="100%" align="center">
    <img src="images/hostmario_admin_blogs_edit_44.png"/>
   </td>
   <td>
@@ -171,8 +171,8 @@ The admin blogs page is a useful feature of HostMario, as it allows the hosting 
   </td>
  </tr>
  <tr>
-  <td width="300" align="center">
-   <img src="/image/hostmario_login.png"/>
+  <td width="100%" align="center">
+   <img src="/images/hostmario_login.png"/>
   </td>
   <td>
    Login<br><br>
