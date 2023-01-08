@@ -203,6 +203,30 @@ The login page is a fundamental feature of HostMario, as it provides a secure an
   </td>
  </tr>
 
+
+ <tr>
+  <td width="100%" align="center">
+  Create MongoDB
+  </td>
+  <td>
+      <img  width="50%" align="center" src="images/hostmario_login.png"/>
+<br><br>
+   The clientarea MongoDB page in HostMario is a feature that allows clients to manage their databases using the MongoDB database management system. This page typically includes the following features:
+
+- Database List: A list of all the databases that the client has with the hosting company, including their name, size, and usage statistics.
+
+- Database View: A detailed view of a specific database, including the database schema, data collections, and any notes or updates.
+
+- Database Management: Tools and options for managing the client's databases, including creating, renaming, and deleting databases.
+
+- Database Import/Export: Features for importing and exporting data to and from the client's databases, with options to choose the file format and data source.
+
+- Database Statistics: Graphs and charts showing the usage and performance of the client's databases over time.
+
+The clientarea MongoDB page is an important part of HostMario, as it allows clients to easily manage their databases and work with data using the powerful and flexible MongoDB system. It also provides an opportunity for the hosting company to offer advanced database management services to their clients.
+  </td>
+ </tr>
+
 </table>
 
 
