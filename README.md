@@ -46,7 +46,7 @@ The client area is an essential part of HostMario, as it provides a central loca
   Clientarea Domains
   </td>
   <td>
-          <img width="50%" align="center" src="images/hostmario_clientarea_domains_.png>
+      <img width="50%" align="center" src="images/hostmario_clientarea_domains_.png">
 <br/>
 
    The clientarea domains page in HostMario allows clients to manage their domains registered with the hosting company. This page typically includes the following features:
@@ -69,8 +69,7 @@ The clientarea domains page is a key part of HostMario, as it allows clients to 
   </td>
   <td>
      <img  width="40%"  align="center" src="images/hostmario_clientarea_tickets_.png"/>
-
-   <br><br>
+   <br/><br/>
    The clientarea tickets page in HostMario is a support feature that allows clients to submit and track support tickets with the hosting company. This page typically includes the following features:
 
 - Ticket List: A list of all the support tickets that the client has submitted, including their status and the date they were created.
@@ -124,7 +123,7 @@ The clientarea invoices page is a crucial part of HostMario, as it allows client
   <td>
        <img width="50%" align="center" src="images/hostmario_clientarea_tickets_3.png"/>
 
-     <br><br>
+ <br><br>
 
 The clientarea add funds page in HostMario is a billing feature that allows clients to add funds to their account balance with the hosting company. This page typically includes the following features:
 
@@ -144,8 +143,7 @@ The clientarea add funds page is a useful feature of HostMario, as it allows cli
   </td>
   <td>
      <img width="50%" align="center" src="images/hostmario_clientarea_services_11.png"/>
-
-  <br><br>
+  <br/><br/>
    The clientarea services page in HostMario is a feature that allows clients to manage their hosting services with the hosting company. This page typically includes the following features:
 
 - Service List: A list of all the hosting services that the client has with the company, including their type, status, and expiration date.
