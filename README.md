@@ -187,7 +187,7 @@ The admin blogs page is a useful feature of HostMario, as it allows the hosting 
   Login
   </td>
   <td>
-      <img  width="50%" align="center" src="/images/hostmario_login.png"/>
+      <img  width="50%" align="center" src="images/hostmario_login.png"/>
 <br><br>
    The login page in HostMario is a feature that allows clients and administrators to access their account with the hosting company. This page typically includes the following features:
 
