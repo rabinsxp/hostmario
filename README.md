@@ -74,8 +74,9 @@ The clientarea domains page is a key part of HostMario, as it allows clients to 
 
 - Ticket Submission: A form for submitting a new support ticket, with options to choose the ticket category, subject, and message.
 
+<br/>
    <img width="50%" align="center" src="images/hostmario_clientarea_tickets_3.png"/>
-
+<br/>
 
 - Ticket Search: A search bar that allows clients to quickly find a specific ticket in their account.
 
@@ -101,9 +102,11 @@ The clientarea tickets page is an important part of HostMario, as it provides a 
 
 - Invoice Search: A search bar that allows clients to quickly find a specific invoice in their account.
 
-- Payment History: A record of all the payments that the client has made to the hosting company.
-   <img width="50%" align="center" src="images/hostmario_rp-order_addfunds.png"/>
+- Payment History: A record of all the payments that the client has made to the hosting company. 
 
+<br/>
+   <img width="50%" align="center" src="images/hostmario_rp-order_addfunds.png"/>
+<br/>
 The clientarea invoices page is a crucial part of HostMario, as it allows clients to stay up-to-date on their billing and make payments on time. It also helps hosting companies to efficiently manage and track their revenue.
   </td>
  </tr>
