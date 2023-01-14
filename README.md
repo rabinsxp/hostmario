@@ -291,3 +291,9 @@ Centralized customer communications: HostMario has a built-in ticketing system a
 With your support, I will be able to focus more time and energy on developing HostMario and bringing it to market. This will not only benefit me, but also the many hosting companies that will be able to use this software to streamline their operations and increase their profitability.
 
 Any amount you can contribute will make a difference and help bring HostMario closer to completion. Thank you in advance for your generosity and support. Together, we can make HostMario a reality and help revolutionize the web hosting industry."
+
+<h3 align="left">Support:</h3>
+
+<p>
+<a href="https://www.buymeacoffee.com/rabins"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="45" width="180" alt="Rabins" /></a>
+</p>
