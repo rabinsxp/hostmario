@@ -4,6 +4,9 @@
 # HostMario - Effortlessly manage and scale your hosting business with HostMario
 HostMario is a web hosting automation software designed to help hosting companies manage and grow their businesses. With HostMario, you can streamline your operations, automate billing and payment processes, and provide top-notch customer support. Whether you're a small hosting company or a large enterprise, HostMario has the tools and features you need to succeed. So why wait? Try HostMario today and see the difference it can make for your business.
 
+# Check out insight of Host Mario on Youtube
+
+[![Host Mario Demo](https://img.youtube.com/vi/gArV7Ud09rY/0.jpg)](https://www.youtube.com/watch?v=gArV7Ud09rY)
 
 <table>
  <tr>
