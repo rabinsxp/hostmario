@@ -1,4 +1,3 @@
-
 "As the founder of HostingSewa, a leading web hosting provider in Nepal, I have extensive experience in the hosting industry. I have learned firsthand the challenges that hosting companies face and have developed solutions to address them. Based on this experience, I have created HostMario, a web hosting automation software that helps hosting companies streamline their operations and increase their profitability. HostMario is the result of my deep understanding of the hosting industry and my ability to build powerful automation tools. With HostMario, hosting companies can manage and grow their businesses with ease, saving time and money in the process. I am confident that HostMario, backed by my experience in the hosting industry, will be a game-changing product in the world of web hosting." -- Rabins Sharma Lamichhane
 
 # HostMario - Effortlessly manage and scale your hosting business with HostMario
@@ -305,3 +304,6 @@ Password: HostMario@12345
 
 ### Change Log
 -- Support for KVM also added
+
+## After 4 years of development I am now plannig to make it Open Source. Soon to be added in this same repo.
+
